@@ -1,0 +1,16 @@
+
+        .flex-container {
+            display: flex;
+            background-color: #f2f2f2;
+            padding: 10px;
+            flex-wrap: wrap;
+        }
+        .flex-item {
+            background-color: #4CAF50;
+            color: white;
+            margin: 5px;
+            padding: 20px;
+            text-align: center;
+            flex: 1;
+        }
+    
